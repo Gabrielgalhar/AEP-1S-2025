@@ -11,7 +11,7 @@ const polos = [
     {nome: 'Praça 7 De Setembro', lat:-23.422821164418053, lng:-51.953299297139914},
     {nome: 'Estação Terminal Intermodal', lat:-23.418473, lng:-51.938098},
     {nome: 'Vila Olimpica', lat:-23.41243379629831, lng:-51.9380194302094},
-    {nome: 'Praça Rocha Pombo', lat:-23.421404364983943, lng:-51.928969416709584},
+    {nome: 'Praça Rocha Pombo', lat:-23.421404364983943, lng:-51.9223448969416709584},
     {nome: 'Praça Farroupilha', lat:-23.401238275265484, lng:-51.92071718031649},
     {nome: 'Parque do Inga', lat:-23.425683400781892, lng:-51.93287028787328},
     {nome: 'Praça da Catedral', lat:-23.424571, lng:-51.938149},
